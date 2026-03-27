@@ -71,9 +71,9 @@ A cool drawing application built with Processing. Paint with customizable colors
 ## 📁 Project Structure
 ```
 Painter/
-├── Painter.pde 
-├── Button.pde 
-└── README.md
+├── Painter.pde        # Main sketch with setup() and draw()
+├── Button.pde         # Button class for UI elements
+└── README.md          # This file
 ```
 
 ## 🚀 Installation
